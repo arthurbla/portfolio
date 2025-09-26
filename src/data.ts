@@ -226,11 +226,11 @@ export const games: Game[] = [
     links: [
     ],
     media: [
-      { source: "images/games/my-country-ar/my-country-ar-screen-1.jpeg", type: MediaType.Image },
-      { source: "images/games/my-country-ar/my-country-ar-screen-2.jpeg", type: MediaType.Image },
-      { source: "images/games/my-country-ar/my-country-ar-screen-3.jpeg", type: MediaType.Image },
-      { source: "images/games/my-country-ar/my-country-ar-screen-4.jpeg", type: MediaType.Image },
-      { source: "images/games/my-country-ar/my-country-ar-screen-5.jpeg", type: MediaType.Image },
+      { source: "/images/games/my-country-ar/my-country-ar-screen-1.jpeg", type: MediaType.Image },
+      { source: "/images/games/my-country-ar/my-country-ar-screen-2.jpeg", type: MediaType.Image },
+      { source: "/images/games/my-country-ar/my-country-ar-screen-3.jpeg", type: MediaType.Image },
+      { source: "/images/games/my-country-ar/my-country-ar-screen-4.jpeg", type: MediaType.Image },
+      { source: "/images/games/my-country-ar/my-country-ar-screen-5.jpeg", type: MediaType.Image },
       { source: "https://www.youtube.com/embed/271CNRlVX7E", type: MediaType.YouTube },
     ],
 
@@ -245,11 +245,11 @@ export const games: Game[] = [
     links: [
     ],
     media: [
-      { source: "images/games/moana/moana-screen-1.jpg", type: MediaType.Image },
-      { source: "images/games/moana/moana-screen-2.jpg", type: MediaType.Image },
-      { source: "images/games/moana/moana-screen-3.jpg", type: MediaType.Image },
-      { source: "images/games/moana/moana-screen-4.jpg", type: MediaType.Image },
-      { source: "images/games/moana/moana-screen-5.jpg", type: MediaType.Image },
+      { source: "/images/games/moana/moana-screen-1.jpg", type: MediaType.Image },
+      { source: "/images/games/moana/moana-screen-2.jpg", type: MediaType.Image },
+      { source: "/images/games/moana/moana-screen-3.jpg", type: MediaType.Image },
+      { source: "/images/games/moana/moana-screen-4.jpg", type: MediaType.Image },
+      { source: "/images/games/moana/moana-screen-5.jpg", type: MediaType.Image },
       { source: "https://www.youtube.com/embed/c6TuUwPNwGU", type: MediaType.YouTube },
     ],
 
