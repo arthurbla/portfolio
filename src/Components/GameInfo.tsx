@@ -11,6 +11,7 @@ interface GameInfoProps {
 const GameInfoContainer = styled(Column)`
   max-width: 800px;
   width: 100%;
+    padding: 20px;
 `;
 
 const GameTitle = styled.h1`
